@@ -59,16 +59,16 @@ A **Streamlit-based web application** was built to enable interaction with the c
   ![Chatbot](images/2.png)
 
 ## Example Questions for this Chatbot
-- 1. How old are you?
-- 2. What is your highest level of education?
-- 3. What major or field of study did you pursue during your education?
-- 4. How many years of work experience do you have?
-- 5. What type of work or industry have you been involved in?
-- 6. Can you describe your current role or job responsibilities?
-- 7. What are your core beliefs regarding the role of technology in shaping society?
-- 8. How do you think cultural values should influence technological advancements?
-- 9. As a master’s student, what is the most challenging aspect of your studies so far?
-- 10. What specific research interests or academic goals do you hope to achieve during your time as a master’s student?
+1. How old are you?
+2. What is your highest level of education?
+3. What major or field of study did you pursue during your education?
+4. How many years of work experience do you have?
+5. What type of work or industry have you been involved in?
+6. Can you describe your current role or job responsibilities?
+7. What are your core beliefs regarding the role of technology in shaping society?
+8. How do you think cultural values should influence technological advancements?
+9. As a master’s student, what is the most challenging aspect of your studies so far?
+10. What specific research interests or academic goals do you hope to achieve during your time as a master’s student?
 ---
 
 ## How to Run the Project
