@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How old are you?",
+        "answer": "Based on the provided context, I cannot determine the age of Phue Pwint Thwe as the given information only includes their contact details and description of their personal profile, including their preference to be called 'Gentle & Informative.' To answer your question accurately, I would need additional information about Phue Pwint Thwe's date of birth or age."
+    },
+    {
+        "question": "What is your highest level of education?",
+        "answer": "Based on the provided context, your highest level of education is a Bachelor of Engineering degree, which you obtained from Technological University (Dawei) in 2017. You specialized in Electronics, indicating a focus on that particular field within your engineering studies. Your pursuit of a postgraduate research opportunity at AIT University further demonstrates your commitment to career and personal development, aiming to advance your knowledge gain during the study period."
+    },
+    {
+        "question": "What major or field of study did you pursue during your education?",
+        "answer": "Based on the provided context, during your education, you pursued the major of Bachelor of Engineering with a specialization in Electronics. This specialization is from Technological University (Dawei)."
+    },
+    {
+        "question": "How many years of work experience do you have?",
+        "answer": "Based on the provided context, there is not enough information to accurately determine the exact number of years of work experience you have. However, we can infer that you have gained significant experience in the IT field of financial services and have expertise in Data Science, Artificial Intelligence Systems, and EnGenius Certified Network Specialist skills. Your focus on career and personal development, as well as your aspiration to advance knowledge during your study period in Fiber-to-the-Home (FTTH) network, indicates a diverse set of experiences and ongoing commitment to learning and growth."
+    },
+    {
+        "question": "What type of work or industry have you been involved in?",
+        "answer": "Based on the provided context, it seems that your work experience has primarily focused on Data Science, Artificial Intelligence, and IT in the field of financial services. You have also been involved in the development and deployment of Fiber-to-the-Home (FTTH) networks. Your career trajectory includes pursuing postgraduate research at AIT University, which aligns with your aspiration for career and personal development, as well as advancing your knowledge during the study period."
+    },
+    {
+        "question": "Can you describe your current role or job responsibilities?",
+        "answer": "Based on the provided context, it appears that your current role or job responsibilities primarily involve preparing various types of reports. In specific, you are responsible for creating daily, weekly, and monthly reports that are shared with the related team. Your focus seems to be on showcasing your expertise in this field while seeking opportunities to further develop your skills and deliver exceptional results. Recently, you have expressed interest in pursuing postgraduate research at AIT University, indicating a desire to advance your career and knowledge within this field."
+    },
+    {
+        "question": "What are your core beliefs regarding the role of technology in shaping society?",
+        "answer": "Based on the provided context, it seems that you hold a strong belief in the importance of technology in shaping society, considering your educational background in Electronics from Technological University (Dawei). Your ambition to pursue opportunities for skill advancement and join a new community demonstrates your commitment to the role of technology in society. In terms of core beliefs, it can be inferred that you likely believe technology has the potential to improve and advance human lives, solve societal challenges, and drive economic growth. You may also value the ethical responsibility tied to technological advancements, ensuring that they are developed responsibly to minimize negative impacts and maximize positive change."
+    },
+    {
+        "question": "How do you think cultural values should influence technological advancements?",
+        "answer": "I believe that cultural values play a significant role in shaping and guiding technological advancements. When developing technologies, it is essential to consider and respect various cultural perspectives to ensure that innovations are inclusive, respectful, and beneficial for all stakeholders. Cultural values influence ethical considerations, user experience, accessibility, and the social impact of technology, ensuring that innovations are developed responsibly to minimize negative effects and maximize positive contributions."
+    },
+    {
+        "question": "As a master’s student, what is the most challenging aspect of your studies so far?",
+        "answer": "As a master's student, focusing on your career and personal development during the study period can present several challenges. Among these challenges, the most daunting aspect might be juggling your academic pursuits with the aim of advancing knowledge and gaining new skills. This requires diligent time management, prioritization, and a strong commitment to your goals."
+    },
+    {
+        "question": "What specific research interests or academic goals do you hope to achieve during your time as a master’s student?",
+        "answer": "Based on your expressed interests in career and personal development, as well as advancing knowledge during your study period, it seems that your primary academic goals focus on career advancement and skill development. Specifically, pursuing a postgraduate research opportunity at AIT University aligns with these goals. Through your master's studies, you aim to gain advanced knowledge and expertise in your field, which will enhance your career prospects and qualifications."
+    }
+]
