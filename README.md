@@ -51,7 +51,7 @@ A **Streamlit-based web application** was built to enable interaction with the c
 
 ### Screenshots:
 - **Chatbot Interface**  
-  ![Chatbot](images/2.png)
+  ![Chatbot](A6.png)
 
 ## Example Questions for this Chatbot
 1. How old are you?
