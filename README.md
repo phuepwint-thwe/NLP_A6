@@ -5,13 +5,9 @@
 - **Name:** Phe Pwint Thwe  
 - **ID:** st124748  
 
-This project implements **Retrieval-Augmented Generation (RAG)** using the **LangChain framework**. The chatbot is designed to answer personal questions based on **documents and resumes**.
+This project implements **Retrieval-Augmented Generation (RAG)** using the **LangChain framework**. The chatbot is designed to answer personal questions based on provided **documents and resumes**.
 
-The implementation is divided into three key tasks:
-
-1. **Source Discovery (Documents)**
-2. **Analysis and Problem Solving**
-3. **Chatbot Development (Web Application)**
+The implementation is divided into three key tasks ; **Source Discovery (Documents)** , **Analysis and Problem Solving**, and **Chatbot Development (Web Application)**
 
 ---
 
@@ -24,7 +20,7 @@ The implementation is divided into three key tasks:
 ### Key Steps:
 - **Load and Process Documents:** Using `PyMuPDFLoader` to extract text.
 - **Text Chunking:** Splitting content into manageable sizes (`chunk_size=100`, `chunk_overlap=20`).
-- **Embedding Generation:** Using `all-MiniLM-L6-v2` with `FAISS` for efficient search.
+- **Embedding Generation:** Using `fastchat-t5-3b-v1.0` with `FAISS` for efficient search.
 - **Retriever Setup:** `FAISS` is used to store and retrieve document embeddings efficiently.
 
 ---
@@ -35,7 +31,7 @@ The implementation is divided into three key tasks:
 
 | Component    | Model |
 |-------------|---------------------------------|
-| **Retriever** | FAISS (`all-MiniLM-L6-v2`) |
+| **Retriever** | FAISS (`fastchat-t5-3b-v1.0`) |
 | **Generator** | Groq LLaMA-3.1-8B (`https://python.langchain.com/docs/integrations/chat/groq/`) |
 
 ### Identified Issues & Solutions:
@@ -52,7 +48,6 @@ A **Streamlit-based web application** was built to enable interaction with the c
 ### Features:
 - **Chat Interface:** Users can enter messages in a web-based chatbox.
 - **Intelligent Responses:** The model generates personalized responses using `qa_chain`.
-- **Source Display:** The chatbot provides links to relevant source documents.
 
 ### Screenshots:
 - **Chatbot Interface**  
